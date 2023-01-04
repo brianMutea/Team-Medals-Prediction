@@ -9,34 +9,31 @@ Most machine learning projects follow a similar outline, which we'll also follow
 ## Project Steps
 
 Form a hypothesis.
-Find and explore the data.
-(If necessary) Reshape the data to predict your target.
-Clean the data for ML.
-Pick an error metric.
-Split your data.
-Train a model.
-Code
+* Find and explore the data.
+* Clean the data for ML.
+* Choose an error metric.
+* Split your data.
+* Train a model.
+# Code
 You can find the code for this project here.
 
-File overview:
-
-machine_learning.ipynb - the main project code
-data_prep.ipynb - the code to generate the team-level dataset from an athlete-level dataset
 # Local Setup
 ## Installation
 To follow this project, please install the following locally:
 
-Python 3.8+
-Python packages
-pandas
-numpy
-scikit-learn
-seaborn
+* Python 3.8+
+* Python packages
+* pandas
+* numpy
+* scikit-learn
+* seaborn
 
 # Data
 We'll be using data from the Olympics, which was originally on Kaggle.
 
-You can download the files we'll use in this project here:
+Files we'll use in this project:
 
-teams.csv - the team-level data that we use in this project.
-athlete_events.csv - this is the original athlete-level data
+teams.csv - the team-level data that we use in this project. Included in this Here!!
+* Check code to generate this data on `prep_teams_data.ipynb` (Included)
+
+[athlete_events.csv](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results) - this is the original athlete-level data from Kaggle
