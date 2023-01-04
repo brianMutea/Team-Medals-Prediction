@@ -34,6 +34,6 @@ We'll be using data from the Olympics, which was originally on Kaggle.
 Files we'll use in this project:
 
 teams.csv - the team-level data that we use in this project. Included in this Here!!
-* Check code to generate this data on `prep_teams_data.ipynb` (Included)
+* Check code to generate this data on `prep_team_data.ipynb` (Included)
 
 [athlete_events.csv](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results) - this is the original athlete-level data from Kaggle
